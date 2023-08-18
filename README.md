@@ -41,7 +41,7 @@
         - Users may employ this bot to monitor whale activity and follow huge transactions in order to profit from price swings brought on by these transactions. Large transactions may also be used in cases of market manipulation or exploitation.
   
 
-## Proposed Solutions (will make this section more specific during the coding process)
+## Proposed Solutions 
 
 - **COMP01: Compound-protocol-proposal-Agent**
      - Governance contract
